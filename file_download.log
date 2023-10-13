@@ -1,0 +1,20 @@
+INFO:root:Connection attempted at test.rebex.net. at 2023-10-03 22:53:51.961197
+INFO:root:Connection successful. 220 Rebex FTP Server ready.
+INFO:root:Setting up download folder at D:\Fisiere\Kreativstorm Labs\Week 4 Assignment\DownloadedFiles\25-04-19yyy for day 25-04-19yyy
+INFO:root:File readme.txt downloaded at 2023-10-03 22:53:52.238553
+INFO:root:File readme.txt moved from D:\Fisiere\Kreativstorm Labs\Week 4 Assignment\DownloadedFiles\25-04-19yyy\readme.txt to D:\Fisiere\Kreativstorm Labs\Week 4 Assignment\InternalNetwork\25-04-19yyy\readme.txt.
+INFO:root:Connection attempted at test.rebex.net. at 2023-10-03 22:54:47.823289
+INFO:root:Connection successful. 220 Rebex FTP Server ready.
+INFO:root:Setting up download folder at D:\Fisiere\Kreativstorm Labs\Week 4 Assignment\DownloadedFiles\25-04-2019 for day 25-04-2019
+INFO:root:File readme.txt downloaded at 2023-10-03 22:54:48.110834
+INFO:root:File readme.txt moved from D:\Fisiere\Kreativstorm Labs\Week 4 Assignment\DownloadedFiles\25-04-2019\readme.txt to D:\Fisiere\Kreativstorm Labs\Week 4 Assignment\InternalNetwork\25-04-2019\readme.txt.
+INFO:root:Connection attempted at test.rebex.net. at 2023-10-03 22:56:13.390555
+INFO:root:Connection successful. 220 Rebex FTP Server ready.
+INFO:root:Setting up download folder at D:\Fisiere\Kreativstorm Labs\Week 4 Assignment\DownloadedFiles\25-04-2019 for day 25-04-2019
+INFO:root:File readme.txt downloaded at 2023-10-03 22:56:13.691013
+INFO:root:File readme.txt moved from D:\Fisiere\Kreativstorm Labs\Week 4 Assignment\DownloadedFiles\25-04-2019\readme.txt to D:\Fisiere\Kreativstorm Labs\Week 4 Assignment\InternalNetwork\25-04-2019\readme.txt.
+INFO:root:Connection attempted at test.rebex.net. at 2023-10-03 23:04:44.737382
+INFO:root:Connection successful. 220 Rebex FTP Server ready.
+INFO:root:Setting up download folder at D:\Fisiere\Kreativstorm Labs\Week 4 Assignment\DownloadedFiles\07-10-2023 for day 07-10-2023
+INFO:root:File readme.txt downloaded at 2023-10-03 23:04:45.023002
+INFO:root:File readme.txt moved from D:\Fisiere\Kreativstorm Labs\Week 4 Assignment\DownloadedFiles\07-10-2023\readme.txt to D:\Fisiere\Kreativstorm Labs\Week 4 Assignment\InternalNetwork\07-10-2023\readme.txt.

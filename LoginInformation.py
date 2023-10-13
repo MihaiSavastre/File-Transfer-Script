@@ -1,0 +1,5 @@
+server_name = "test.rebex.net"
+username = "demo"
+password = "password"
+# local_dir = "/path/to/local/dir"
+# remote_dir = "/path/to/remote/dir"
